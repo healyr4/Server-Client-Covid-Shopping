@@ -1,0 +1,52 @@
+[
+    {
+        "id": 18,
+        "description": "Milk",
+        "quantity": "3"
+    },
+    {
+        "id": 54,
+        "description": "Tennis balls",
+        "quantity": "20"
+    },
+    {
+        "id": 73,
+        "description": "Mushrooms",
+        "quantity": "1"
+    },
+    {
+        "id": 74,
+        "description": "Flour",
+        "quantity": "1"
+    },
+    {
+        "id": 75,
+        "description": "",
+        "quantity": ""
+    },
+    {
+        "id": 76,
+        "description": "Orange Juice",
+        "quantity": "2"
+    },
+    {
+        "id": 82,
+        "description": "Milk",
+        "quantity": "2"
+    },
+    {
+        "id": 85,
+        "description": "Cheese",
+        "quantity": "4"
+    },
+    {
+        "id": 88,
+        "description": "Cheese",
+        "quantity": "1"
+    },
+    {
+        "id": 89,
+        "description": "Cheese",
+        "quantity": "2"
+    }
+]
